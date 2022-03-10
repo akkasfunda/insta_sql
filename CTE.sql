@@ -1,3 +1,6 @@
+-- This is a comment
+
+
 SELECT
 	title,
 	AVG(rental_duration) AS avg_rental_duration
