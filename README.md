@@ -8,6 +8,7 @@ Rocbuster Stealth LLC is a movie rental company that used to have stores around 
 
 Data:
 
+Payment - Store - Film_Actor - Film_category - Inventory - Customer - Staff - Actor - Film - Category - Address - Language - City - Country - Rental
 
 Tools:
 
